@@ -3,8 +3,11 @@
 <br>
 1. List three major version control software for software engineering. 
 <li>Git
-<li>Bitbucket
+<li>Apache Subversion
 <li>GNU Bazaar
+<li>Mercurial
+<li>Plastic SCM
+<li>CVS
 <br>
 <br>
 2. What are the main advantages to using Git in your software development, and how is it useful for game developers. 
@@ -24,6 +27,12 @@ a game developer would want different branches to delegate work within a branch 
 <br>
 4. If you are working at a company, which of their policies and procedures might relate to using version control systems such as Git. 
 <li>Best practice for version control
+<li>WHS(work health and safety)
+<li>Workplace Harassment and Bullying Policy (HR department)
+<li>Operational Procedures
+<li>Cyber Security procedures
+<li>Privacy Policy
+<li>Codes Of Conduct
 <br>
 <br>
 5. Merge conflicts can occur while using git. List merge tools or diff tools you can use to help you merge and deal with conflicts. 
@@ -37,6 +46,9 @@ a game developer would want different branches to delegate work within a branch 
 <br>
 6. In a merged source code file, how does Git let you know there is a conflict?
 <li>Git will produce a log that that tells us all the commits that will conflict between the merged branches.
+<li> you will see a Head header where you will see <<<<<<<<< HEAD (this represents the current change)
+<li> and you will see the incoming branch on the incoming branch >>>>>>>>> branch name 
+<li> it should say specificly which files/changes are conflicting in the terminal
 <br>
 <br>
 7. What are the steps you can take to resolve Git conflicts? 

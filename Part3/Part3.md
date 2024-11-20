@@ -10,6 +10,14 @@
 <li>macOS 10.9 or newer
 <li>at least 1GB of RAM
 <li>a minimum of 50MB of free disk space
+<li> first you have to make git available on your computer so go to the git download website and download and install your corresponding 
+version for your operating system
+<li>once downloaded open the downloaded file by clicking on it, this will open a Git setup menu where you can choose the initial git install location
+<li>once youve chosen your install location click next, once youve clicked next the setup menu will display a select components screen click next and then click next again
+<li> after you have clicked next you can choose a default editor I recommened using or installing microsoft cisual studio to be used for a default editor
+<li> after you have clicked next on your editor screen click next again as git knows best for the moment when it comes to naming the inital branches in new repositories click next again
+<li> keep clicking next until you have come across the experimental features page, instead of saying next it should now say install click on the install button and it will download git
+<li> after the install is finished git is now ready to use
 <br>
 <br>
 
